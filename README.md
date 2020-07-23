@@ -189,7 +189,7 @@ public static int resolveSizeAndState(int size, int measureSpec, int childMeasur
 }
 ```
 
-
+参考：[Android View的测量、布局、绘制流程源码分析及自定义View实例演示](https://www.jianshu.com/p/fd25d552c500)
 
 ## 二、自定义`ViewGroup`之流式布局实现
 
