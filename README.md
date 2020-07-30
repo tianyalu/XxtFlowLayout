@@ -3,6 +3,10 @@
 [TOC]
 
 ## 一、自定义`View`理论
+完整的理论分析可以参考：  
+[Android View的绘制流程之测量、布局、绘制源码(API 26)分析](https://github.com/tianyalu/AndroidSourceCode26/blob/master/md/viewDrawingProcessSourceCodeAnalysis.md)  
+或者：  
+[Android View的绘制流程之测量、布局、绘制源码(API 26)分析](https://blog.csdn.net/tianyaluqingchen/article/details/107685129)
 
 ### 1.1 自定义`View`的分类
 
